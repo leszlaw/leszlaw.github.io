@@ -20,6 +20,14 @@ body{
 	font-size: 25px;
 }
 
+.center_img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+
 .nav_div{
     width: 32%;
 	max-width: 32%;
